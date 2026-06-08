@@ -1,0 +1,3 @@
+﻿scenario_key,scenario_nome,descricao,usa_peso_posterior_max,accuracy_val,balanced_accuracy_val,macro_f1_val,weighted_f1_val,best_iteration,ranking,criterio_escolha
+A,Cenário A,"Treino sem pesos, usando todos os registros com o mesmo peso.",False,0.9794444056676206,0.9770387363469996,0.9781418140429273,0.9794359804530666,1497,1,macro_f1_val > balanced_accuracy_val > accuracy_val
+B,Cenário B,Treino ponderado por posterior_max do LCA.,True,0.9757101975291408,0.9724184835907085,0.9739964172331206,0.97569455342758,1463,2,macro_f1_val > balanced_accuracy_val > accuracy_val

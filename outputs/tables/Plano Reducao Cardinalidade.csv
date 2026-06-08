@@ -1,0 +1,10 @@
+﻿Variável Final,Origem,Cardinalidade Antes,Cardinalidade Depois,Faixa Desejada,Regra Aplicada
+Faixa Etária,Idade; Faixa Etaria,104,8,6 A 7 Niveis,Base final consolidada: comparacao entre idade numerica e faixa etaria.
+Estado Civil,Estado Civil,5,5,4 A 5 Niveis,Base final consolidada.
+Escolaridade,Escolaridade,6,6,5 A 6 Niveis,Base final consolidada.
+Ocupacao Macro,Ocupacao,1609,11,10 A 12 Niveis,Comparacao entre ocupacao detalhada e macrogrupo.
+Deslocamento Geografico,Municipio E UF De Residencia E Ocorrencia,11031,3,3 Niveis,Sintese geografica ja consolidada.
+Local Ocorrencia Consolidado,Local Ocorrencia Original; Local Ocorrencia Cid,18,7,6 A 7 Niveis,Comparacao entre fontes de local e variavel final.
+Mecanismo Lesao Autoprovocada,Causa Basica Cid 3; Grupo Meio Lesao Autoprovocada,25,10,8 A 10 Niveis,Granularidade clinica consolidada na base final.
+Numero Causas Informadas Faixa,Numero Causas Informadas,5,4,4 Niveis,Faixa derivada da contagem de causas.
+Faixa Hora Obito,Hora Obito,1441,5,5 Niveis,Comparacao entre horario detalhado e faixa final.

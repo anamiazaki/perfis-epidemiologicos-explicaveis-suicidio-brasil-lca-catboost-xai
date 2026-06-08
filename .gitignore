@@ -1,0 +1,82 @@
+# Dados e artefatos grandes
+data/raw/*
+data/interim/*
+data/processed/*
+data/raw/
+data/interim/
+data/processed/
+!data/raw/.gitkeep
+!data/interim/.gitkeep
+!data/processed/.gitkeep
+*.parquet
+*.zip
+*.cbm
+*.pkl
+*.joblib
+*.dbf
+*.dbc
+*.csv
+*.svg
+*.png
+!outputs/tables/**/*.csv
+
+# Ambientes e caches
+__pycache__/
+**/__pycache__/
+**pycache**/
+.ipynb_checkpoints/
+.venv/
+.env
+TCC_Aninha_env/
+catboost_info/
+
+# Artefatos locais de consulta
+artefatos_lca/
+artefatos_catboost/
+
+# Materiais brutos/legados mantidos fora do versionamento
+Apresentação/
+Arquivos CNV/
+Arquivos CSV/
+Documentação do SIM/
+/figuras/
+outputs_analises/
+outputs_figuras_artigo_svg_ajuste_fino/
+outputs/figures/pdf/
+outputs/resumo_clusters.csv
+*.docx
+*.pptx
+*.xlsx
+*.html
+*.log
+~$*
+/*.pdf
+/main.tex
+/main_corrigido_TG2_20_paginas_figura2_atualizada.tex
+/artigo_tcc_layout_espacado.tex
+/referencias_tcc.bib
+/article/main.pdf
+/article/main.tex
+/article/figuras/
+/article/*.aux
+/article/*.bbl
+/article/*.blg
+/article/*.log
+/article/*.out
+/article/*.toc
+/article/referencias_tcc.bib
+/_latex_source_local/
+Dataset Suicídio*.csv
+Dataset Suicídio*.parquet
+CID (1).xlsx
+cbo2002-ocupacao.csv
+
+# Saidas LaTeX
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.out
+*.synctex.gz
+*.toc

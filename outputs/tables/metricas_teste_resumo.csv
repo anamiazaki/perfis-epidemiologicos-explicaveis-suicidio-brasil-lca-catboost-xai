@@ -1,0 +1,2 @@
+﻿scenario_key,scenario_nome,accuracy,balanced_accuracy,macro_f1,weighted_f1,n_total,n_train,n_val,n_test,fidelity_nivel,xai_readiness
+A,Cenário A,0.9796538005165073,0.9776977603477186,0.9781059836573172,0.9796483988904305,191025,133717,28654,28654,muito alta,Apto para a etapa interpretativa do artigo/TCC.

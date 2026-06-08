@@ -1,0 +1,7 @@
+﻿classe_lca,precision,recall,f1,support,n_preditos,support_pct,rotulo_curto,rotulo_perfil
+0,0.9840455840455841,0.9840455840455841,0.9840455840455841,3510,3510,0.12249598659872968,Classe 0,Classe 0 | Feminino | <15 | Estudante
+1,0.9704433497536946,0.9649585531273549,0.9676931796712639,2654,2639,0.09262232149089132,Classe 1,Classe 1 | Ignorado Ou Não Preenchido | Ignorado Ou Não Preenchido | Construção E Manutenção
+2,0.9826398852223817,0.9850424277290378,0.9838396897220426,6953,6970,0.24265373071822433,Classe 2,Classe 2 | Ignorado Ou Não Preenchido | Ignorado Ou Não Preenchido | Agropecuária
+3,0.9737564845895637,0.9725693386162755,0.973162549557792,3281,3277,0.1145040831995533,Classe 3,Classe 3 | Feminino | 35-44 | Profissões Qualificadas E Serviço Público
+4,0.9795600977560542,0.9773886056306805,0.9784731469152241,4511,4501,0.15743002722133034,Classe 4,Classe 4 | Masculino | 75+ | Aposentado Ou Pensionista
+5,0.9806626273043703,0.9821820529373789,0.9814217520319959,7745,7757,0.27029385077127105,Classe 5,Classe 5 | Masculino | Ignorado Ou Não Preenchido | Indústria E Produção

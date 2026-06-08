@@ -1,0 +1,13 @@
+﻿feature,mean_abs_shap
+Faixa Etária,1.0142675173976485
+Região Residência,0.855907743925344
+Raça Cor,0.8236393195693983
+Ocupação Macro,0.7667654885397133
+Mecanismo Lesão Autoprovocada,0.7411242123350361
+Estado Civil,0.6636568741238231
+Escolaridade,0.6565442978285247
+Local Ocorrência Consolidado,0.33043540493271945
+Sexo,0.2922379400217262
+Deslocamento Geográfico,0.16340198488239138
+Indício Transtorno Mental,0.043819134516135894
+Indício Transtorno Por Substâncias,0.024511832143301604

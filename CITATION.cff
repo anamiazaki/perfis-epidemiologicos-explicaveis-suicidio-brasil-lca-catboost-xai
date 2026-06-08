@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: "Perfis Epidemiológicos Explicáveis de Óbitos por Suicídio no Brasil com LCA, CatBoost e XAI"
+message: "Se utilizar este repositório, cite este trabalho."
+type: software
+authors:
+  - family-names: Miazaki
+    given-names: Ana Paula
+  - family-names: Pedott
+    given-names: Andre Marcondes
+  - family-names: Paulino
+    given-names: Fernando Augusto
+  - family-names: Júnior
+    given-names: Braz Izaias da Silva
+date-released: "2026-06-07"
+license: MIT
+repository-code: "https://github.com/anamiazaki/perfis-epidemiologicos-explicaveis-suicidio-brasil-lca-catboost-xai"
+abstract: "Repositório do TCC sobre perfis epidemiológicos explicáveis de óbitos por suicídio no Brasil usando LCA, CatBoost, SHAP e ALE."
+keywords:
+  - suicidio
+  - SIM/DATASUS
+  - LCA
+  - CatBoost
+  - SHAP
+  - ALE
+  - XAI
